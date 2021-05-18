@@ -8,10 +8,10 @@ James Patton
   Went bad scrapped project after 4   hours working is sales force
   Applying permissions without   understanding what they did (had to go back and look at security badge)
   
-  Saief Sayed
-  
-  What Went well
-    * Keeping the data model simple, helped me to implement a lot of the requirements, I.e security, page layouts etc
- 
-  What went bad
-    * Not having enough fields, so I can make use of dynamic forms
+  NATHAN TELLEZ
+    GOOD:
+      Using notepad to plan wireframe helped reduce time needed to implement into salesforce.
+      Used profiles and permission sets well to control object and field accessibility.
+    BAD:
+      Needed more UI features to showcase what I learned last week
+      It was difficult to pass an object from user to user without using manual sharing.
